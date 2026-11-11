@@ -1,0 +1,107 @@
+page,keyword,us_monthly_volume,keyword_difficulty,role
+/fleet,"freightliner box truck",3600,20,primary
+/fleet,"freightliner m2 box truck",1300,18,secondary
+/fleet,"box truck freightliner",590,14,secondary
+/fleet,"freightliner m2 106 box truck",590,14,secondary
+/fleet,"freightliner truck box",590,15,secondary
+/fleet,"26 foot freightliner box truck",390,5,secondary
+/fleet,"freightliner box truck 26ft",320,12,secondary
+/services/26ft-dock-high-box-truck,"26 ft box truck",9900,29,primary
+/services/26ft-dock-high-box-truck,"26ft box truck",4400,19,secondary
+/services/26ft-dock-high-box-truck,"box truck 26",590,19,secondary
+/services/26ft-dock-high-box-truck,"26-foot box truck",480,27,secondary
+/services/26ft-dock-high-box-truck,"26-ft box truck",390,23,secondary
+/services/expedited-freight,"freight shipping company",880,11,primary
+/services/expedited-freight,"definition expedited shipping",720,26,secondary
+/services/expedited-freight,"expedited freight services",720,23,secondary
+/services/expedited-freight,"meaning of expedite shipment",720,20,secondary
+/services/expedited-freight,"what does expedited mean",720,27,secondary
+/services/expedited-freight,"expedited freight shipping",480,17,secondary
+/services/expedited-freight,"transport freight services",390,18,secondary
+/services/expedited-freight,"define expedited shipping",320,21,secondary
+/services/expedited-freight,"what does expedite shipment mean",320,13,secondary
+/services/expedited-freight,"expedited freight carriers",260,15,secondary
+/services/expedited-freight,"expedited freight companies",260,20,secondary
+/services/expedited-freight,"expedited shipping companies",260,11,secondary
+/services/expedited-freight,"expedited shipping solutions",260,18,secondary
+/services/expedited-freight,"expediting trucking",260,14,secondary
+/services/expedited-freight,"expedite service",210,18,secondary
+/services/expedited-freight,"expedite shipment",210,28,secondary
+/services/expedited-freight,"expedited freight service",210,20,secondary
+/services/expedited-freight,"expedited trucking companies",210,10,secondary
+/services/expedited-freight,"expediting trucking companies",210,18,secondary
+/services/expedited-freight,"critical freight",170,14,secondary
+/services/expedited-freight,"expedited critical freight",170,15,secondary
+/services/expedited-freight,"one time freight shipping",170,24,secondary
+/services/expedited-freight,"expedite freight",140,20,secondary
+/services/expedited-freight,"expedited air freight",140,26,secondary
+/services/expedited-freight,"expedited freight company",140,24,secondary
+/services/expedited-freight,"expedited freight rates",140,9,secondary
+/services/expedited-freight,"expedited shipment",140,27,secondary
+/services/expedited-freight,"private freight shipping",140,23,secondary
+/services/expedited-freight,"time-sensitive shipping",140,6,secondary
+/services/expedited-freight,"what is an expedited delivery",140,18,secondary
+/services/expedited-freight,"what is expedited delivery",140,21,secondary
+/services/expedited-freight,"expedite delivery meaning",110,6,secondary
+/services/expedited-freight,"expedited freight transportation",110,13,secondary
+/services/liftgate-delivery,"liftgate service",880,23,primary
+/services/liftgate-delivery,"box trucks with lift gate",590,18,secondary
+/services/liftgate-delivery,"truck with liftgate",590,23,secondary
+/services/liftgate-delivery,"lift gate service",480,4,secondary
+/services/liftgate-delivery,"26 ft box truck with liftgate",320,9,secondary
+/services/liftgate-delivery,"lift gate on truck",210,13,secondary
+/services/liftgate-delivery,"liftgate delivery service",210,14,secondary
+/services/liftgate-delivery,"lift gate delivery",140,13,secondary
+/services/liftgate-delivery,"liftgate on truck",140,4,secondary
+/services/liftgate-delivery,"commercial truck liftgate",70,14,secondary
+/services/liftgate-delivery,"lift gate on a truck",70,14,secondary
+/services/liftgate-delivery,"liftgate on a truck",50,13,secondary
+/services/liftgate-delivery,"liftgate service trucking company",50,11,secondary
+/services/liftgate-delivery,"lift gate on box truck",40,12,secondary
+/services/liftgate-delivery,"liftgate freight",40,9,secondary
+/services/liftgate-delivery,"liftgate delivery service near me",30,0,secondary
+/services/liftgate-delivery,"liftgate for delivery",30,5,secondary
+/services/liftgate-delivery,"liftgate shipping service",30,18,secondary
+NEW /resources/box-truck-sizes,"16ft box truck",2400,26,primary
+NEW /resources/box-truck-sizes,"box truck length",2400,29,secondary
+NEW /resources/box-truck-sizes,"16 ft box truck",1300,20,secondary
+NEW /resources/box-truck-sizes,"box truck 16ft",1300,19,secondary
+NEW /resources/box-truck-sizes,"box truck size",1300,27,secondary
+NEW /resources/box-truck-sizes,"20 foot box truck",880,12,secondary
+NEW /resources/box-truck-sizes,"10ft box truck",720,27,secondary
+NEW /resources/box-truck-sizes,"12 ft box truck",720,29,secondary
+NEW /resources/box-truck-sizes,"22 foot box truck",720,29,secondary
+NEW /resources/box-truck-sizes,"12 foot box truck",590,26,secondary
+NEW /resources/box-truck-sizes,"16 feet box truck",590,17,secondary
+NEW /resources/box-truck-sizes,"16 ft truck",590,27,secondary
+NEW /resources/box-truck-sizes,"16 box truck",480,23,secondary
+NEW /resources/box-truck-sizes,"dimensions of a box truck",480,16,secondary
+NEW /resources/box-truck-sizes,"15 ft box truck",390,29,secondary
+NEW /resources/box-truck-sizes,"16' box truck",390,20,secondary
+NEW /resources/box-truck-sizes,"20ft box truck",390,24,secondary
+NEW /resources/box-truck-sizes,"24 box truck",390,13,secondary
+NEW /resources/box-truck-sizes,"box truck 16 ft",390,19,secondary
+NEW /resources/box-truck-sizes,"box truck 20ft",390,6,secondary
+NEW /resources/box-truck-sizes,"14 ft box truck",320,18,secondary
+NEW /resources/box-truck-sizes,"18 foot box truck",320,5,secondary
+NEW /resources/box-truck-sizes,"28 ft box truck",320,5,secondary
+NEW /resources/box-truck-sizes,"30 ft box truck",320,6,secondary
+NEW /resources/box-truck-sizes,"box truck 16 foot",320,24,secondary
+NEW /resources/box-truck-sizes,"delivery pallet size",110,22,secondary
+NEW /resources/what-is-a-box-truck,"box trucks",8100,14,primary
+NEW /resources/what-is-a-box-truck,"box van",1900,18,secondary
+NEW /resources/what-is-a-box-truck,"what is a box truck",1300,16,secondary
+NEW /resources/what-is-a-box-truck,"cutaway truck",1000,14,secondary
+NEW /resources/what-is-a-box-truck,"box truck cost",720,13,secondary
+NEW /resources/what-is-a-box-truck,"box truck prices",720,14,secondary
+NEW /resources/what-is-a-box-truck,"how much are box trucks",590,12,secondary
+NEW /resources/what-is-a-box-truck,"how much is a box truck",590,20,secondary
+NEW /resources/what-is-a-box-truck,"how much for a box truck",480,16,secondary
+NEW /resources/what-is-a-box-truck,"box truck straight truck",390,18,secondary
+NEW /resources/what-is-a-box-truck,"cube van",390,18,secondary
+NEW /resources/what-is-a-box-truck,"box body truck",320,14,secondary
+NEW /resources/what-is-a-box-truck,"box truck 16",320,20,secondary
+NEW /resources/what-is-a-box-truck,"box truck price",320,21,secondary
+NEW /resources/what-is-a-box-truck,"freight box truck",320,16,secondary
+NEW /resources/what-is-a-box-truck,"how much does a box truck cost",320,20,secondary
+NEW /resources/what-is-a-box-truck,"light duty box truck",320,24,secondary
