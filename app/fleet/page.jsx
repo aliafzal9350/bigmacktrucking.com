@@ -22,7 +22,7 @@ export default function FleetPage() {
     <section className="lp-section">
       <h2>The truck that runs your load</h2>
       <p>These are unedited photos of our own truck, not stock images. The cab is a Freightliner M2, one of the most common medium-duty chassis under a straight box truck in the US. The box has a curbside access door in addition to the rear door.</p>
-      <p>Check the USDOT and MC numbers on the door against the <a href="https://safer.fmcsa.dot.gov/CompanySnapshot.aspx" rel="noopener">FMCSA company snapshot</a> before you tender freight to any carrier.</p>
+      <p>Check the USDOT and MC numbers on the door against the <a href="https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&amp;query_type=queryCarrierSnapshot&amp;query_param=USDOT&amp;query_string=3843409" rel="noopener">FMCSA company snapshot</a> before you tender freight to any carrier.</p>
     </section>
     <section className="lp-section">
       <h2>Photos</h2>
