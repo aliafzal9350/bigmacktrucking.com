@@ -4,6 +4,7 @@ import SmoothScroll from '@/components/SmoothScroll';
 import QuoteForm from '@/components/QuoteForm';
 import IsoIcon from '@/components/iso/IsoIcon';
 import SiteFooter from '@/components/SiteFooter';
+import Link from 'next/link';
 
 // The homepage owns the canonical root URL; landing pages set their own.
 export const metadata = {
@@ -81,6 +82,7 @@ export default function HomePage() {
                 <dd>26,000 lb GVWR, non-CDL</dd>
               </div>
             </dl>
+            <p><Link href="/services/pallet-delivery">See pallet freight delivery options</Link></p>
           </div>
         </section>
 
@@ -130,6 +132,7 @@ export default function HomePage() {
               <li>Red Hook Container Terminal, Brooklyn</li>
               <li>JFK and Newark air cargo</li>
             </ul>
+            <p><Link href="/services/twic-port-trucking">Plan a TWIC port pickup or delivery</Link></p>
           </div>
         </section>
 
@@ -143,6 +146,7 @@ export default function HomePage() {
               The hydraulic liftgate lowers freight to street level and the onboard pallet jack moves it the rest of the
               way. Storefronts, job sites and other ground-level drops all work.
             </p>
+            <p><Link href="/services/liftgate-delivery">Check liftgate delivery requirements</Link></p>
             <ul className="kit">
               <li>
                 <IsoIcon name="liftgate" className="kit-icon" />
